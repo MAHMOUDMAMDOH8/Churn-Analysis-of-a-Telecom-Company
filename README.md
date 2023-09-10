@@ -1,4 +1,4 @@
-# telecom-churn analysis
+# Churn Analysis of a Telecom Company
 Project Overview
 Objective: The main goal of this project is to showcase my data analysis skills, particularly in data cleaning, transformation, and visualization.
 Data Source: I obtained the data from Maven Analysis, ensuring that it's accurate and representative of the analysis I wanted to perform.
